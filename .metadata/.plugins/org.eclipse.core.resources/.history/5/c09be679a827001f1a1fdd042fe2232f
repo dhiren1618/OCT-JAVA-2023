@@ -1,0 +1,23 @@
+package com.dao;
+
+import com.bean.Student;
+
+public class StudentDao {
+
+	public void insert(Student student) {
+		
+	}
+	
+	public void getAll() {
+		
+	}
+	
+	public void updateStudent() {
+		
+	}
+	
+	public void deleteStudent() {
+		
+	}
+		
+}

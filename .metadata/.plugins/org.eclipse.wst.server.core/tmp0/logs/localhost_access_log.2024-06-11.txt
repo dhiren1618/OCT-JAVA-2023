@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Jun/2024:08:50:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:50:37 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2711
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:50:37 +0530] "GET /JavaServletPractical/scripts.js HTTP/1.1" 200 1205
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:50:37 +0530] "GET /JavaServletPractical/style.css HTTP/1.1" 200 1719
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:50:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:51:33 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2198
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:08:51:44 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2203
+127.0.0.1 - - [11/Jun/2024:09:00:00 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:00:01 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2203
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:01:01 +0530] "POST /JavaServletPractical/StudentController HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:01:26 +0530] "POST /JavaServletPractical/StudentController HTTP/1.1" 200 -
+127.0.0.1 - - [11/Jun/2024:09:44:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:44:04 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2203
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:44:38 +0530] "POST /JavaServletPractical/StudentController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:09:44:38 +0530] "GET /JavaServletPractical/index.jsp HTTP/1.1" 200 2203
